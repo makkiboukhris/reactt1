@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  max-width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+}
+label.form-label{
+  font-size: 25px;
+}
+form{
+  padding: 50px;
+  border: solid rgb(145, 145, 145) 1px;
+  border-radius: 5px;
+  background-color: rgb(238, 238, 238);
+}
+
+
+
